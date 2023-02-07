@@ -90,7 +90,7 @@ html {
     transform: skewY(-3deg);
     background-color: #1d1532;
     margin-bottom: 36px;
-    margin-top: auto;
+    margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
     /* padding: top right botth left; */
@@ -102,12 +102,6 @@ html {
 .ab-container {
     transform: skewY(3deg);
 }
-
-
-
-
-
-
 
 
 .vk-container {
@@ -138,9 +132,9 @@ html {
     margin-left: auto;
     margin-right: auto;
     padding-top: 50px;
-    padding-right: 60px;
+    padding-right: 10px;
     padding-bottom: 50px;
-    padding-left: 60px;
+    padding-left: 10px;
     /* padding: top right botth left; */
    /* padding: 60px 50px 60px 50px; */
 
@@ -148,8 +142,8 @@ html {
 }
 
 tr>*+* {
-    padding-left: 6em;
-    padding-left: 6em;
+    padding-left: 5em;
+    padding-right: 5em;
 }
 
 
@@ -163,7 +157,7 @@ tr>*+* {
     transform: skewY(-3deg);
     background-color: #18171b;
     margin-bottom: 36px;
-    margin-top: 20px;
+    margin-top: 30px;
     /* padding: top right botth left; */
     padding-top: 50px;
     padding-right: 5px;
