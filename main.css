@@ -123,7 +123,7 @@ html {
 .vk-container {
     transform: skewY(3deg);
     text-align: left;
-    padding: 70px;
+    padding: 30px;
 }
 
 .vk-container h2 h3 {
