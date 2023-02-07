@@ -94,7 +94,7 @@ html {
     margin-left: auto;
     margin-right: auto;
     /* padding: top right botth left; */
-    padding: 100px 100px 100px 100px;
+    padding: 80px 40px 80px 40px;
     /* padding: top/bottom right/left; */
 
     font-size: 20px;
@@ -131,12 +131,9 @@ html {
     margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 50px;
-    padding-right: 15px;
-    padding-bottom: 50px;
-    padding-left: 15px;
+    
     /* padding: top right botth left; */
-   /* padding: 60px 50px 60px 50px; */
+   padding: 60px 20px 60px 20px;
 
     /* padding: top/bottom right/left; */
 }
@@ -160,9 +157,9 @@ tr>*+* {
     margin-top: 30px;
     /* padding: top right botth left; */
     padding-top: 50px;
-    padding-right: 5px;
+    padding-right: 10px;
     padding-bottom: 50px;
-    padding-left: 5px;
+    padding-left: 10px;
     /* padding: top/bottom right/left; */
 }
 
