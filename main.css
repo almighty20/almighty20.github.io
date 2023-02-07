@@ -35,6 +35,10 @@ html {
 
 }
 
+img{
+float: left; 
+}
+
 .navbar {
 
     background-color: rgb(32, 30, 37);
