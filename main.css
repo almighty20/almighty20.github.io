@@ -104,6 +104,12 @@ element.style {
 .gap-8 {
     gap: 2rem;
 }
+.justify-center {
+    justify-content: center;
+}
+.place-items-center {
+    place-items: center;
+}
 .justify-between {
     justify-content: space-between;
 }
@@ -132,7 +138,7 @@ element.style {
     margin-left: auto;
     margin-right: auto;
     /* padding: top right botth left; */
-    padding: 60px 20px 60px 20px;
+    padding: 60px 30px 60px 30px;
     /* padding: top/bottom right/left; */
 }
 
@@ -141,21 +147,8 @@ element.style {
 
     
 
-element.style {
-}
-@media (min-width: 640px)
-.sm\:grid-cols-\[auto_auto\] {
-    grid-template-columns: auto auto;
-}
-.gap-3 {
-    gap: .75rem;
-}
-.justify-center {
-    justify-content: center;
-}
-.place-items-center {
-    place-items: center;
-}
+
+
 
 .vk-container {
     transform: skewY(3deg);
