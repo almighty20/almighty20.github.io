@@ -99,12 +99,25 @@ html {
 
 /* } */
 
-.gap-3 {
-    gap: .75rem;
+element.style {
 }
-.justify-center {
-    justify-content: center;
+.gap-8 {
+    gap: 2rem;
 }
+.justify-between {
+    justify-content: space-between;
+}
+.flex-col {
+    flex-direction: column;
+}
+.h-screen {
+    height: 100vh;
+}
+.flex {
+    display: flex;
+}
+
+
 
 #about {
 
