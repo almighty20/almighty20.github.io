@@ -145,7 +145,7 @@ html {
     width: auto;
     height: auto;
     transform: skewY(-3deg);
-    background-color: #18171b;
+   background-color: rgb(27, 36, 68);
     margin-bottom: 36px;
     margin-top: auto;
     /* padding: top right botth left; */
