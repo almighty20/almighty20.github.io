@@ -97,32 +97,6 @@ html {
   
   
 
-/* } */
-
-element.style {
-}
-.gap-8 {
-    gap: 2rem;
-}
-.justify-center {
-    justify-content: center;
-}
-.place-items-center {
-    place-items: center;
-}
-.justify-between {
-    justify-content: space-between;
-}
-.flex-col {
-    flex-direction: column;
-}
-.h-screen {
-    height: 100vh;
-}
-.flex {
-    display: flex;
-}
-
 
 
 #about {
@@ -175,10 +149,10 @@ element.style {
     margin-bottom: 36px;
     margin-top: auto;
     /* padding: top right botth left; */
-    padding-top: 50px;
-    padding-right: 20px;
-    padding-bottom: 50px;
-    padding-left: 20px;
+    padding-top: 60px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    padding-left: 30px;
     /* padding: top/bottom right/left; */
 }
 
