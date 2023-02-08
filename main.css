@@ -120,6 +120,9 @@ html {
 
 .ab-container {
     transform: skewY(3deg);
+.project-container {
+    transform: skewY(3deg);
+    text-align: left;
 }
 
 .vk-container {
