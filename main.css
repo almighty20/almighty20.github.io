@@ -138,10 +138,7 @@ element.style {
 
 .ab-container {
     transform: skewY(3deg);
-.project-container {
-    transform: skewY(3deg);
-    text-align: left;
-}
+
     
 
 element.style {
