@@ -99,7 +99,12 @@ html {
 
 /* } */
 
-
+.gap-3 {
+    gap: .75rem;
+}
+.justify-center {
+    justify-content: center;
+}
 
 #about {
 
@@ -123,6 +128,23 @@ html {
 .project-container {
     transform: skewY(3deg);
     text-align: left;
+}
+    
+
+element.style {
+}
+@media (min-width: 640px)
+.sm\:grid-cols-\[auto_auto\] {
+    grid-template-columns: auto auto;
+}
+.gap-3 {
+    gap: .75rem;
+}
+.justify-center {
+    justify-content: center;
+}
+.place-items-center {
+    place-items: center;
 }
 
 .vk-container {
