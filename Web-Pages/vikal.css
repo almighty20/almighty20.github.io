@@ -20,7 +20,7 @@
 body {
     color: #c0c0cf;
     /* background: black; */
-    background-color: rgb(13, 19, 40);
+    background-color: rgb(43, 35, 61);
 }
 
 
@@ -36,8 +36,8 @@ html {
 }
 
 .navbar {
-
-    background-color: rgb(32, 30, 37);
+background-color: rgb(20, 29, 60);
+    
     -webkit-backdrop-filter: blur(35px);
     
     backdrop-filter: blur(20px);
