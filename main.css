@@ -20,7 +20,7 @@
 body {
     color: #c0c0cf;
     /* background: black; */
-     background-color: rgb(59, 58, 57);
+     background-color: rgb(20, 29, 60);
 }
 
 
@@ -39,7 +39,7 @@ html {
 
 .navbar {
 
-    background-color: rgb(32, 30, 37);
+    background-color: rgb(20, 29, 60);
     -webkit-backdrop-filter: blur(35px);
     
     backdrop-filter: blur(20px);
@@ -152,7 +152,7 @@ html {
     width: auto;
     height: auto;
     transform: skewY(-3deg);
-    background-color: rgb(41, 16, 47);
+    background-color: rgb(20, 29, 60);
     margin-bottom: 36px;
     margin-top: auto;
     /* padding: top right botth left; */
