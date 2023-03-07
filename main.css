@@ -18,7 +18,7 @@
 }
 
 body {
-    color: #c0c0cf;
+    color: rgb(242, 225, 239);
     /* background: black; */
      background-color: rgb(0, 0, 0);
 }
@@ -28,7 +28,7 @@ html {
     font-family: 'General';
 
 
-    color: #a0a0a6 !important;
+    color: rgb(242, 225, 239) !important;
     scroll-behavior: smooth;
     backdrop-filter: blue(10px);
 
